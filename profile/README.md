@@ -2,8 +2,6 @@
 
 Cogwork Labs it's a software company dedicated to develop tailored solutions to companies.
 
-[website](www.cogworklabs.com)
-
 Cogwork Labs
 <!--
 
